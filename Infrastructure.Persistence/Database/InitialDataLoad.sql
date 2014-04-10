@@ -1,0 +1,12 @@
+﻿insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('BCB', 'BCB.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('BCM Bracelet', 'BCMBracelet.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('Black Grey Braided Bracelet', 'BlackGreyBraidedBracelet.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('Blue Yellow BCB', 'BlueYellowBCB.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('Coasters', 'Coasters.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('Crystal Earings', 'CrystalEarings.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('CSCM Pendant', 'CSCMPendant.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('CSC Pendant', 'CSCPendant.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('Earrings', 'Earrings.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('Red Celtic Star Pendant', 'RedCelticStarPendant.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('Silver Black Byzantine Bracelet', 'SilverBlackByzantineBracelet.jpg', 1);
+insert into dbo.Jewelry (Name, ImageFileName, Quantity) values ('Bob is cool', null, 1);
